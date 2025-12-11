@@ -1,2 +1,3 @@
-# IBM-Fullstack-Software-Developer
-Anotações, projetos e laboratórios para o curso IBM Full Stack Software Developer.
+# IBM Fullstack Software Developer
+
+5/12 em andamento
