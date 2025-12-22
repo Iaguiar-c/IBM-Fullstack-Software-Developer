@@ -1,16 +1,18 @@
+# Testes em Componentes React
+
 Os testes são como uma verificação cuidadosa do seu código, garantindo que tudo funcione como deveria. Imagine que você está construindo uma casa. Antes de se mudar, você faria uma inspeção para ter certeza de que tudo está seguro e em ordem, certo? Da mesma forma, os testes em React ajudam os desenvolvedores a verificar se suas aplicações estão funcionando corretamente e sem erros. Eles podem evitar problemas futuros, como bugs que reaparecem, e permitem que os desenvolvedores se concentrem no que estão fazendo agora, sem se preocupar com o que já foi feito.
 
 Existem diferentes maneiras de testar componentes em React. Uma delas é o teste unitário, onde você verifica partes isoladas do seu código, como se estivesse testando cada cômodo da casa separadamente. A outra é o teste de ponta a ponta, que simula o uso real da aplicação, como se você estivesse fazendo um tour pela casa inteira. Isso ajuda a garantir que tudo funcione bem em conjunto.
 
-**Definição e Importância do Teste**
+## Definição e Importância do Teste
 - O teste é uma revisão linha por linha do código para garantir que ele funcione corretamente.
 - É essencial para prevenir regressões e garantir que atualizações não afetem o funcionamento do aplicativo.
 
-**Abordagens de Teste de Componentes**
+## Abordagens de Teste de Componentes
 - Existem duas abordagens principais: testes unitários em um ambiente simples e testes de ponta a ponta em um ambiente de navegador real.
 - O fluxo de testes de componentes segue três fases: Preparar (Arrange), Executar (Act) e Verificar (Assert).
 
-**Ferramentas de Teste**
+## Ferramentas de Teste
 - Ferramentas populares incluem Mocha, Chai, Sinon, Jest e React Testing Library.
 - Jest, desenvolvido pelo Facebook, combina várias funcionalidades e oferece uma maneira eficiente de testar componentes React, incluindo testes de instantâneas e simulação de funções.
 
